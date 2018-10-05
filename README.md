@@ -4,6 +4,7 @@ Project Details
 Below, you will find an outline of the steps that you will take in this project.
 
 **Step 0: The Data**
+
 There are a number of files used for this project.Due to the the agreement issue, I am not including the dataset here as the data are proprietary. The files available for the project are:
 
 Udacity_AZDIAS_Subset.csv: Demographic data for the general population of Germany; 891211 persons (rows) x 85 features (columns).
