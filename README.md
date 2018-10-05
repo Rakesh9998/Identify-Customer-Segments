@@ -35,7 +35,7 @@ I use the sklearn library to create objects that implement your feature scaling 
 
 **Step 3: Clustering**
 
-Finally, on the transformed data, I apply clustering techniques to identify groups in the general demographic data. I then apply the same clustering model to the customers dataset to see how market segments differ between the general population and the mail-order sales company. You will tackle the following points in this stage:
+Finally, on the transformed data, I apply clustering techniques to identify groups in the general demographic data. I then apply the same clustering model to the customers dataset to see how market segments differ between the general population and the mail-order sales company. I will tackle the following points in this stage:
 
 Use the k-means method to cluster the demographic data into groups. How should you make a decision on how many clusters to use?
 Apply the techniques and models that you fit on the demographic data to the customers data: data cleaning, feature scaling, PCA, and k-means clustering. Compare the distribution of people by cluster for the customer data to that of the general population. Can you say anything about which types of people are likely consumers for the mail-order sales company?
